@@ -19,7 +19,6 @@
   },
   "homepage": "https://github.com/gloria-cheung/score_keeper_widget#readme",
   "dependencies": {
-    "bulma": "^0.9.4",
     "express": "^4.18.1"
   }
 }
